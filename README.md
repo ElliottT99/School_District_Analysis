@@ -42,14 +42,14 @@ Math
 ![math_scores_unmodified](Resources/math_scores_unmodified.PNG)
 ![math_scores_ths_modified](Resources/math_scores_ths_modified.PNG)
 
-(For Reference, The upper table displays our data, pre-adjustment, while the lower table displays our data post-adjustment)
+(For Reference, The left table displays our data, pre-adjustment, while the right table displays our data post-adjustment)
 
 Reading
 
 ![reading_scores_unmodified](Resources/reading_scores_unmodified.PNG)
 ![reading_scores_ths_modified](Resources/reading_scores_ths_modified.PNG)
 
-(For Reference, The upper table displays our data, pre-adjustment, while the lower table displays our data post-adjustment)
+(For Reference, The left table displays our data, pre-adjustment, while the right table displays our data post-adjustment)
 
 #### Scores by School Spending
 Ommiting the ninth grade of Thomas High School had no visible effect on overal grades based on school spending, as seen in the tables below:
